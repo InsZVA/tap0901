@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;tap0901&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../nat" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../WRGEngine" />
+      <root url="file://$PROJECT_DIR$/../../../net" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../DrawGuess" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../nat" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../WRGEngine" />
+      <root url="file://$PROJECT_DIR$/../../../net" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../DrawGuess" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
